@@ -337,4 +337,8 @@
     <!-- How long it takes for the HW to start illuminating after the illumination is requested. -->
     <integer name="config_udfps_illumination_transition_ms">0</integer>
 
+    <!-- Peak Refresh rate for clean flash -->
+    <integer name="config_defaultRefreshRate">120</integer>
+    <integer name="config_defaultPeakRefreshRate">120</integer>
+
 </resources>
