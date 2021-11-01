@@ -16,7 +16,7 @@
 
 # Authserver
 PRODUCT_PACKAGES += \
-android.hardware.authsecret@1.0.vendor
+    android.hardware.authsecret@1.0.vendor
 
 # Bluetooth
 PRODUCT_PACKAGES += \
